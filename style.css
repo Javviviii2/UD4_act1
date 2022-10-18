@@ -1,0 +1,30 @@
+body{
+   background-color:rgb(231, 189, 93);
+}
+h1 {
+   color: aliceblue;
+   text-align: left;
+   padding-left: 9%;
+   padding-top: 30px;
+   font-size: 60px;
+}
+h2{
+   text-align: right;
+   color: aliceblue;
+   padding-right: 10%;
+   padding-bottom: 30px;
+}
+
+.hero-img{
+   background-image: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0, 0.5)), url('img/lluvia.png');
+   border-radius: 20px;
+   opacity: 0.87;
+   margin: 2%;
+}
+.hero-poem{
+   text-align: left;
+   color: aliceblue;
+   padding-right: 60%;
+   padding-left: 9%;
+   font-size: 20px;
+}
